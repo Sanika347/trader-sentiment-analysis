@@ -126,7 +126,7 @@ Avoid over-leveraging
 
 This allows traders to benefit from positive sentiment while controlling downside risk.
 
-#Strategy 3: 
+# Strategy 3: 
 Segment-Based Trading Rules
 
 Infrequent traders should avoid active trading during Fear periods.
